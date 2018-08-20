@@ -1,0 +1,13 @@
+Codebreaker játék
+
+    a szotarban talalhatok meg a szavak amik a lehetosegek lesznek
+    egyenlore csak 4 betus szavakat fogok hasznalni
+
+
+        linkek: http://www.scrabble.org.au/words/fours.htm
+                http://www.cplusplus.com/reference/string/string/at/
+                http://www.cplusplus.com/forum/beginner/179273/
+                https://www.google.com/search?q=fallout+4+terminal+hacking&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjblqmph_zcAhXO-qQKHYRTBw4Q_AUICigB&biw=1536&bih=715&dpr=1.25#imgrc=5zzo-E7qvpb-uM:
+                
+
+    
