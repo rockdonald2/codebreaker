@@ -21,6 +21,12 @@
     <ClInclude Include="szotar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="memoriacimek.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="absztrakt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

@@ -151,6 +151,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="absztrakt.h" />
+    <ClInclude Include="memoriacimek.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="szotar.h" />
   </ItemGroup>

@@ -1,2 +1,3 @@
 ﻿  Codebreaker.cpp
+c:\users\rockd\documents\github\codebreaker\codebreaker\codebreaker\codebreaker.cpp(61): warning C4715: 'Jatek::jatek': not all control paths return a value
   Codebreaker.vcxproj -> C:\Users\rockd\Documents\GitHub\codebreaker\Codebreaker\Debug\Codebreaker.exe
