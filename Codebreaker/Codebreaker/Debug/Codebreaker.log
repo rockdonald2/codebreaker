@@ -1,3 +1,3 @@
 ﻿  Codebreaker.cpp
-c:\users\rockd\documents\github\codebreaker\codebreaker\codebreaker\codebreaker.cpp(155): warning C4715: 'Jatek::probalkozas': not all control paths return a value
+c:\users\rockd\documents\github\codebreaker\codebreaker\codebreaker\codebreaker.cpp(156): warning C4715: 'Jatek::probalkozas': not all control paths return a value
   Codebreaker.vcxproj -> C:\Users\rockd\Documents\GitHub\codebreaker\Codebreaker\Debug\Codebreaker.exe
