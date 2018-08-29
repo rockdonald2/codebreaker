@@ -8,6 +8,6 @@ Codebreaker játék
                 http://www.cplusplus.com/reference/string/string/at/
                 http://www.cplusplus.com/forum/beginner/179273/
                 https://www.google.com/search?q=fallout+4+terminal+hacking&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjblqmph_zcAhXO-qQKHYRTBw4Q_AUICigB&biw=1536&bih=715&dpr=1.25#imgrc=5zzo-E7qvpb-uM:
-                
 
-    
+
+  következő lépés, 4-5 szavas módok beépítése, végül error checking beépítés
