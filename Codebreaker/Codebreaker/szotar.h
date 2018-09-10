@@ -11,7 +11,7 @@ using std::string;
 
 namespace Szotar
 {
-	vector<string> szotar3{ "AHEM", "AHIS", "AHOY", "AIDS", "AIMS", "AIRS", "ALOE", "ALSO",
+	vector<string> szotar4{ "AHEM", "AHIS", "AHOY", "AIDS", "AIMS", "AIRS", "ALOE", "ALSO",
 		"BYTE", "CABA", "CABS", "CACA", "DAAL", "DABS", "DACE", "DACK",
 		"HIPT", "HIRE", "HISH", "HOAS", "HOAX", "HOBO", "ITAS", "ITCH", "ITEM",
 		"VOWS", "VRIL", "VROT", "VROU",
@@ -27,9 +27,9 @@ namespace Szotar
 		"SNEE", "SNIB", "SNIG", "SNIP"
 	};
 
-	vector<string> szotar4{};
+	vector<string> szotar5{ "ASADA"};
 
-	vector<string> szotar5{};
+	vector<string> szotar6{ "ADADAD"};
 
 	//cout << Szotar::szotar[0];
 		//cout << Szotar::szotar[0].at(1);
