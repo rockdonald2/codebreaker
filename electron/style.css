@@ -1,0 +1,130 @@
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF FIVE  */
+.span_5_of_5 {
+	width: 100%;
+}
+.span_4_of_5 {
+	width: 79.68%;
+}
+.span_3_of_5 {
+	width: 59.36%;
+}
+.span_2_of_5 {
+	width: 39.04%;
+}
+.span_1_of_5 {
+	width: 18.72%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_1_of_5, .span_2_of_5, .span_3_of_5, .span_4_of_5, .span_5_of_5 { width: 100%; }
+}
+
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+    font-weight: inherit !important;
+    color: #41FF00;
+    cursor: default;
+    transition: all .2s;
+}
+
+*::selection {
+    background: none;
+}
+
+html {
+    font-size: 62.5%; /* 10px */
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 500;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #000;
+    padding: 2rem;
+}
+
+.lead {
+    font-size: 1.6rem;
+}
+
+.attempt {
+    display: inline-block;
+    width: 1.6rem;
+    height: 1.6rem;
+    background-color: #41FF00;
+}
+
+.attempt:not(:last-child) {
+    margin-right: 1rem;
+}
+
+.text,
+.hex {
+    font-size: 1.4rem;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.hover {
+    background-color: #41FF00;
+    color: #000;
+}
+
+.d-flex-col {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.attempt-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 182px;
+    height: 288px;
+    font-size: 1.4rem;
+}
+
+.endgame {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 90%;
+    height: 90vh;
+    z-index: 1;
+    background-color: transparent;
+}

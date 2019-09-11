@@ -1,7 +1,9 @@
-﻿  Codebreaker.cpp
+﻿  pch.cpp
+  Codebreaker.cpp
   Generating code
-  1 of 236 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+D:\GitHub\games\codebreaker\Codebreaker\Codebreaker\Codebreaker.cpp(230): warning C4715: 'Jatek::probalkozas': not all control paths return a value
+  205 of 205 functions (100.0%) were compiled.
+    33 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Codebreaker.vcxproj -> C:\Users\rockd\Documents\GitHub\codebreaker\Codebreaker\Release\Codebreaker.exe
+  Codebreaker.vcxproj -> D:\GitHub\games\codebreaker\Codebreaker\Release\Codebreaker.exe
