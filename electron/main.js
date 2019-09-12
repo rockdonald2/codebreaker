@@ -10,7 +10,7 @@ const {
 } = electron;
 
 // SET ENV TO DEV
-process.env.NODE_ENV = 'production';
+process.env.NODE_ENV = 'development';
 
 let mainWindow;
 let aboutWindow;

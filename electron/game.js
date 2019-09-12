@@ -134,7 +134,7 @@ $(document).ready(() => {
                         endgame[0].classList.add('endgame');
                         window.setTimeout(() => {
                             endGame();
-                        }, 2000);
+                        }, 3000);
                     } else {
                         attempts[remainingAttempts].classList.add('hide');
                         remainingAttempts--;
@@ -154,7 +154,9 @@ $(document).ready(() => {
                 endMsg.append(document.createTextNode("> Terminal locked down"));
                 attemptSection.append(endMsg);
                 endgame[0].classList.add('endgame');
-                resetGame();
+                window.setTimeout(() => {
+                    resetGame();
+                }, 3000);
             }
         }
 
