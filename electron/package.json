@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "electron": "^6.0.8",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
