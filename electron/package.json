@@ -12,11 +12,11 @@
   "author": "Lukacs Zsolt",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^6.0.8",
+    "electron": "^18.3.7",
     "electron-packager": "^14.0.6"
   },
   "dependencies": {
-    "electron": "^6.0.8",
+    "electron": "^18.3.7",
     "jquery": "^3.4.1"
   }
 }
